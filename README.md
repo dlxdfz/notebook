@@ -1,3 +1,1 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+由于在github上查看jupyter notebook比较慢，可以在[nbviewer](http://nbviewer.jupyter.org/github/dlxdfz/notebook/tree/master/)上查看
